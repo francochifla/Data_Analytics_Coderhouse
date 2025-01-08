@@ -5,7 +5,7 @@ Este repositorio contiene mi entrega final del curso de **Data Analytics** en **
 ## 📚 Contenido
 - **Documentación.pdf**: Informe del proyecto.
 - **Dataset.xlsx**: Dataset trabajado.
-- **Dashboard.pbix**: Dashboard interactivo creado en Power BI.
+- **Dashboard.pbix**: Dashboard interactivo creado en Power BI. ([Ver dasboard](https://www.behance.net/gallery/177059299/Dashboard-Top-250-Movies-(IMDb)))
 
 ## 🛠️ Herramientas Utilizadas
 - **Excel**: Limpieza y transformación de datos.
@@ -17,8 +17,8 @@ Este proyecto permitió obtener insights valiosos sobre los géneros predominant
 
 ## 📧 Contacto
 **Franco Silva**  
-[LinkedIn](https://www.linkedin.com/in/francochifla/)
-[Behance](https://www.behance.net/francochifla/projects)
+[LinkedIn](https://www.linkedin.com/in/francochifla/)  
+[Behance](https://www.behance.net/francochifla/projects)  
 [Email](mailto:francotsilva03@gmail.com)
 
 ¡Gracias por visitar el repositorio! 😊
